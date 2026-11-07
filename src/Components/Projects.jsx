@@ -32,7 +32,7 @@ const projects = [
     type: "Python · SQL",
     image: "/Projects/SaaS.png",
     video: "/Projects/Saas.mp4",
-    github: "https://github.com/HarshiitaaRajoriiaa/Saas-project",
+    github: "https://github.com/HarshiitaaRajoriiaa/Saas-Product-Analytics",
     description:
       "End-to-end analytics solution covering customer, subscription, product usage, churn, revenue and support data across 500 customers.",
     highlights: [
