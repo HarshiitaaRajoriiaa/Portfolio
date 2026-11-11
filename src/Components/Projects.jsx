@@ -14,7 +14,7 @@ const projects = [
     date: "Aug 2026",
     type: "Power BI",
     image: "/Projects/E-Commerce.png",
-    video: "/Projects/ECommerce.mp4",
+    video: "https://lnkd.in/p/gFM8__3Q",
     github: "https://github.com/HarshiitaaRajoriiaa/E-Commerce-Growth-Customer-Analytics-PowerBI-Project",
     description:
       "Interactive Power BI dashboard analyzing revenue, customer behavior, product performance, marketing channels, and conversion trends.",
@@ -31,7 +31,7 @@ const projects = [
     date: "Sep 2026",
     type: "Python · SQL",
     image: "/Projects/SaaS.png",
-    video: "/Projects/Saas.mp4",
+    video: "https://lnkd.in/p/grV7pTbS",
     github: "https://github.com/HarshiitaaRajoriiaa/Saas-Product-Analytics",
     description:
       "End-to-end analytics solution covering customer, subscription, product usage, churn, revenue and support data across 500 customers.",
